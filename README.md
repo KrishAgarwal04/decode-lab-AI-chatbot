@@ -22,9 +22,9 @@ Python 3
 
 **How to Run:**
 
-git clone https://github.com/your-username/rule-based-ai-chatbot.git /n
-cd rule-based-ai-chatbot
-python chatbot.py
+git clone https://github.com/your-username/rule-based-ai-chatbot.git  
+cd rule-based-ai-chatbot   
+python chatbot.py  
 
 
 **Sample Interaction:**
